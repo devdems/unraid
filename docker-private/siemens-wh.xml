@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Container>
+  <Name>Siemens-WH</Name>
+  <Overview>SQL</Overview>
+  <Description></Description>
+  <Registry>https://registry.hub.docker.com/u/snoopy86/siemens-wh</Registry>
+  <Repository>snoopy86/siemens-wh</Repository>
+  <BindTime>true</BindTime>
+  <Privileged>false</Privileged>
+  <Networking>
+    <Mode>bridge</Mode>
+  </Networking>
+  <Data>
+	<Volume>
+      <HostDir></HostDir>
+      <ContainerDir>/usr/src/myapp</ContainerDir>
+      <Mode>rw</Mode>
+    </Volume>
+  </Data>
+  <Banner>https://raw.githubusercontent.com/snoopy86/docker-private/master/Siemens-logo-300x223.png</Banner>
+  <Icon>https://raw.githubusercontent.com/snoopy86/docker-private/master/Siemens-logo-300x223.png</Icon>
+</Container>
