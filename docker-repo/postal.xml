@@ -5,11 +5,11 @@
   <Category>Cloud: Productivity: Tools: Network:Web Network:Other Network:Messenger</Category>
   <Name>Postal</Name>
   <Overview>
-    Postal is a complete and fully featured mail server for use by websites & web servers.
+    Postal is a complete and fully featured mail server for use by websites and web servers.
   </Overview>
   <Description>
     Postal is developed by Krystal to serve its own mail processing requirements and we have since decided that it should be released as an open source project for the community.[br][br]
-    Prerequisites: MariaDB/mySQL & RabbitMQ[br]
+    Prerequisites: MariaDB/mySQL and RabbitMQ[br]
     More info https://docs.postalserver.io/
   </Description>
   <Registry>https://ghcr.io/postalserver/postal/</Registry>
