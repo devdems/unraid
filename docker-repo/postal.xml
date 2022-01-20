@@ -50,4 +50,5 @@
   <Icon>http://i.imgur.com/PoUuA3k.png</Icon>
   <Config Name="Port25" Target="25" Default="25" Mode="tcp" Description="Container Port: " Type="Port" Display="always" Required="true" Mask="false">25</Config>
   <Config Name="Webui" Target="5000" Default="5000" Mode="tcp" Description="web interface port" Type="Port" Display="always" Required="true" Mask="false">5000</Config>
+  <Config Name="Config" Target="/opt/postal/config" Default="/mnt/user/appdata/postal" Mode="rw" Description="Postal data folder" Type="Path" Display="always" Required="true" Mask="false">/mnt/user/appdata/postal</Config>
 </Container>
