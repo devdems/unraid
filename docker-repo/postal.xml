@@ -48,6 +48,6 @@
   <WebUI>http://[IP]:[PORT:9000]/</WebUI>
   <Banner>http://i.imgur.com/vA7y2Io.png</Banner>
   <Icon>http://i.imgur.com/PoUuA3k.png</Icon>
-  <Config Name="Port25" Target="25" Default="25" Mode="tcp" Description="Container Port: " Type="Port" Display="always" Required="true" Mask="false">5000</Config>
+  <Config Name="Port25" Target="25" Default="25" Mode="tcp" Description="Container Port: " Type="Port" Display="always" Required="true" Mask="false">25</Config>
   <Config Name="Webui" Target="5000" Default="5000" Mode="tcp" Description="web interface port" Type="Port" Display="always" Required="true" Mask="false">5000</Config>
 </Container>
