@@ -12,8 +12,8 @@
     Prerequisites: MariaDB/mySQL and RabbitMQ[br]
     More info https://docs.postalserver.io/
   </Description>
-  <Registry>https://ghcr.io/postalserver/postal/</Registry>
-  <Repository>postalserver/postal</Repository>
+  <Registry>https://ghcr.io/postalserver/postal</Registry>
+  <Repository>ghcr.io/postalserver/postal</Repository>
   <Support>https://lime-technology.com/forum/index.php?topic=43610.0</Support>
   <Project>https://github.com/postalserver/postal</Project>
   <DonateText>Buy me a beer.</DonateText>
