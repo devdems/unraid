@@ -3,7 +3,7 @@
 <Beta>False</Beta>
 <Date>2025-01-12</Date>
 <Category>Productivity:</Category>
-  <Name>NodeODM</Name>
+  <Name>nodeodm</Name>
   <Overview>
     A lightweight REST API to access aerial image processing engines such as ODM or MicMac.
   </Overview>
@@ -11,7 +11,7 @@
     NodeODM is a standard API specification for processing aerial images with engines such as ODM. The API is used by clients such as WebODM, CloudODM and PyODM. This repository contains a performant, production-ready reference implementation written in NodeJS.
   </Description>
   <Registry>https://registry.hub.docker.com/u/snoopy86/NodeODM/</Registry>
-  <Repository>snoopy86/NodeODM</Repository>
+  <Repository>snoopy86/nodeodm</Repository>
   <Support>https://lime-technology.com/forum/index.php?topic=43610.0</Support>
   <DonateText>Buy me a beer.</DonateText>
   <DonateImg>https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif</DonateImg>
