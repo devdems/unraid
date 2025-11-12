@@ -3,12 +3,12 @@
 <Beta>False</Beta>
 <Date>2020-04-02</Date>
 <Category>MediaServer:Music</Category>
-  <Name>LogitechMediaServer 8.0</Name>
+  <Name>LogitechMediaServer (Lyrion Music Server)</Name>
   <Overview>
-    Logitech Media Server (formerly SlimServer, SqueezeCenter and Squeezebox Server) is a streaming audio server supported by Logitech (formerly Slim Devices), developed in particular to support their Squeezebox range of digital audio receivers.
+    Logitech Media Server (Lyrion Music Server) is a streaming audio server supported by Logitech (formerly Slim Devices), developed in particular to support their Squeezebox range of digital audio receivers.
   </Overview>
   <Description>
-    Logitech Media Server (formerly SlimServer, SqueezeCenter and Squeezebox Server) is a streaming audio server supported by Logitech (formerly Slim Devices), developed in particular to support their Squeezebox range of digital audio receivers.[br][br]
+    Logitech Media Server (Lyrion Music Server) is a streaming audio server supported by Logitech (formerly Slim Devices), developed in particular to support their Squeezebox range of digital audio receivers.[br][br]
     [b][span style='color: #E80000;']Directions:[/span][/b][br]
     [b]/config[/b] : this path is used to store the configuration and the database files of Logitech Media Server.[br]
     [b]/music[/b] : set this path to where you store your music files.
