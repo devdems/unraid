@@ -22,7 +22,7 @@
   <PostArgs/>
   <CPUset/>
   <DonateText>Buy me a beer.</DonateText>
-  <DonateLink>https://www.paypal.com/donate/?hosted_button_id=L4PWEX4HZETRA</DonateLink>
+  <DonateLink>https://www.paypal.com/donate?hosted_button_id=4SCY7WSZPA6UQ</DonateLink>
   <Requires/>
   <Config Name="WebUI Port" Target="9000" Default="9000" Mode="tcp" Description="" Type="Port" Display="always" Required="true" Mask="false">9000</Config>
   <Config Name="Control Port - TCP" Target="3483" Default="3483" Mode="tcp" Description="" Type="Port" Display="always" Required="true" Mask="false">3483</Config>
