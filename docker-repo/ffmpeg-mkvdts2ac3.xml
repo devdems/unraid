@@ -26,14 +26,14 @@
     Parameters need to be seperated by ; as delimiter.[br]
     Example: --compress none;-d;-n;-w /output;--new[br]
   </Description>
-  <Registry>https://registry.hub.docker.com/u/snoopy86/ffmpeg/</Registry>
+  <Registry>https://hub.docker.com/r/snoopy86/ffmpeg</Registry>
   <Repository>snoopy86/ffmpeg</Repository>
   <Privileged>false</Privileged>
   <Support>https://lime-technology.com/forum/index.php?topic=43610.0</Support>
   <DonateText>For my retirement</DonateText>
   <DonateImg>https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif</DonateImg>
-  <DonateLink>https://www.paypal.com/donate?hosted_button_id=4SCY7WSZPA6UQ</DonateLink>
-  <Icon>https://ih1.redbubble.net/image.998316046.6121/pp,840x830-pad,1000x1000,f8f8f8.jpg</Icon> 
+  <DonateLink>https://www.paypal.com/donate/?hosted_button_id=L4PWEX4HZETRA</DonateLink>
+  <Icon>https://raw.githubusercontent.com/devdems/unraid/master/docker-repo/images/FFmpeg.png</Icon>
   <Network Default="host">bridge</Network>
   <Config Name="Config" Target="/config" Default="/mnt/user/appdata/ffmpeg" Mode="rw" Description="Config" Type="Path" Display="always" Required="true" Mask="false">/mnt/user/appdata/ffmpeg</Config>
   <Config Name="Watch" Target="/watch" Default="" Mode="rw" Description="Watch" Type="Path" Display="always" Required="true" Mask="false"/>
