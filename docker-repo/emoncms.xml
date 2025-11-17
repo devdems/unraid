@@ -11,7 +11,7 @@
   <Repository>snoopy86/emoncms-docker</Repository>
   <DonateText>Buy me a beer.</DonateText>
   <DonateImg>https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif</DonateImg>
-  <DonateLink>https://www.paypal.com/donate/?hosted_button_id=L4PWEX4HZETRA</DonateLink>
+  <DonateLink>https://www.paypal.com/donate?hosted_button_id=4SCY7WSZPA6UQ</DonateLink>
   <BindTime>true</BindTime>
   <Privileged>false</Privileged>
   <Environment>     
