@@ -72,5 +72,5 @@
   <Version></Version>
   <WebUI>http://[IP]:[PORT:9000]/</WebUI>
   <Banner>http://i.imgur.com/vA7y2Io.png</Banner>
-  <Icon>http://i.imgur.com/PoUuA3k.png</Icon>
+  <Icon>https://raw.githubusercontent.com/devdems/unraid/master/docker-repo/images/lms.png</Icon>
 </Container>
