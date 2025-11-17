@@ -17,7 +17,7 @@
   <Category>MediaServer:Music</Category>
   <WebUI>http://[IP]:[PORT:9000]/</WebUI>
   <TemplateURL>https://raw.githubusercontent.com/devdems/unraid/master/docker-repo/LyrionMusicServer.xml</TemplateURL>
-  <Icon>https://raw.githubusercontent.com/devdems/unraid/master/docker-repo/lyrionmusicserver.png</Icon>
+  <Icon>https://raw.githubusercontent.com/devdems/unraid/master/docker-repo/images/lyrionmusicserver.png</Icon>
   <ExtraParams>--log-opt max-size=50m --log-opt max-file=1</ExtraParams>
   <PostArgs/>
   <CPUset/>
