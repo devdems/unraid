@@ -111,7 +111,7 @@
       <Mode>rw</Mode>
     </Volume>
   </Data>
-  <WebUI>http://[IP]:[PORT:8998]/</WebUI>
+  <WebUI>http://[IP]:[PORT:80]/</WebUI>
   <Banner>http://emoncms.org/Modules/site/emoncms_front.png</Banner>
   <Icon>http://emoncms.org/Modules/site/emoncms_front.png</Icon>
 </Container>
