@@ -8,7 +8,7 @@
   <Shell>bash</Shell>
   <Privileged>false</Privileged>
   <Support>https://forums.unraid.net/topic/41917-support-snoopy-logitech-media-server-emoncms-ubuntu-ffmpeg/</Support>
-  <Project>https://lyrion.org/</Support>
+  <Project>https://lyrion.org/</Project>
   <Overview>Lyrion Music Server (formerly SlimServer, SqueezeCenter, Squeezebox Server, and Logitech Media Server) is a streaming audio server, developed in particular to support the Squeezebox range of digital audio receivers.&#xD;
 &#xD;
   Configuration:&#xD;
