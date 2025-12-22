@@ -3,7 +3,7 @@
 <Beta>False</Beta>
 <Date>2020-04-02</Date>
 <Category>MediaServer:Music</Category>
-  <Name>LogitechMediaServer (Lyrion Music Server)</Name>
+  <Name>LogitechMediaServer</Name>
   <Overview>
     Logitech Media Server (Lyrion Music Server) is a streaming audio server supported by Logitech (formerly Slim Devices), developed in particular to support their Squeezebox range of digital audio receivers.
   </Overview>
