@@ -46,5 +46,5 @@
     </Volume>
   </Data>
   <Version></Version>
-  <WebUI>http://[IP]:[PORT:3033]/</WebUI>
+  <WebUI>http://[IP]:[PORT:3000]/</WebUI>
 </Container>
