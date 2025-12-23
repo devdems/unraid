@@ -2,7 +2,7 @@
 <Container version="2">
   <Name>LyrionMusicServer</Name>
   <Repository>ghcr.io/lms-community/lyrionmusicserver:stable</Repository>
-  <Registry>https://hub.docker.com/r/lmscommunity/lyrionmusicserver</Registry>
+  <Registry>ghcr.io/lms-community/lyrionmusicserver</Registry>
   <Network>bridge</Network>
   <MyIP/>
   <Shell>bash</Shell>
